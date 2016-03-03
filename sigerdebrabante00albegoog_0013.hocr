@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./sigerdebrabante00albegoog_0013.png"; bbox 0 0 4906 6542; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 845 1242 1322 1339">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 845 1242 1322 1339">
+     <span class='ocr_line' id='line_1_1' title="bbox 845 1242 1322 1339; baseline 0.002 -3"><span class='ocrx_word' id='word_1_1' title='bbox 845 1262 969 1339; x_wconf 80' lang='lat' dir='ltr'>AUx</span> <span class='ocrx_word' id='word_1_2' title='bbox 1004 1242 1322 1339; x_wconf 66' lang='lat' dir='ltr'>EfflTEURs</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 422 1677 1750 1773">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 422 1677 1750 1773">
+     <span class='ocr_line' id='line_1_2' title="bbox 422 1677 1750 1773; baseline -0.004 -7"><span class='ocrx_word' id='word_1_3' title='bbox 422 1678 902 1773; x_wconf 75' lang='lat' dir='ltr'>CHARTULARIUM</span> <span class='ocrx_word' id='word_1_4' title='bbox 931 1677 1370 1764; x_wconf 76' lang='lat' dir='ltr'>UNIVERSITATIS</span> <span class='ocrx_word' id='word_1_5' title='bbox 1398 1678 1750 1765; x_wconf 76' lang='lat' dir='ltr'>PARlSlENSlS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 491 2248 1681 2358">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 491 2248 1681 2358">
+     <span class='ocr_line' id='line_1_3' title="bbox 491 2248 1681 2358; baseline -0.002 -2"><span class='ocrx_word' id='word_1_6' title='bbox 491 2252 561 2357; x_wconf 84' lang='lat' dir='ltr'>LE</span> <span class='ocrx_word' id='word_1_7' title='bbox 599 2252 659 2358; x_wconf 89' lang='lat' dir='ltr'>T.</span> <span class='ocrx_word' id='word_1_8' title='bbox 701 2252 759 2358; x_wconf 85' lang='lat' dir='ltr'>R.</span> <span class='ocrx_word' id='word_1_9' title='bbox 805 2252 853 2356; x_wconf 87' lang='lat' dir='ltr'>P.</span> <span class='ocrx_word' id='word_1_10' title='bbox 897 2251 1125 2358; x_wconf 83' lang='lat' dir='ltr'>HENRI</span> <span class='ocrx_word' id='word_1_11' title='bbox 1173 2248 1472 2356; x_wconf 84' lang='lat' dir='ltr'><strong>DENlFLE</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1516 2248 1585 2356; x_wconf 93' lang='lat' dir='ltr'>O.</span> <span class='ocrx_word' id='word_1_13' title='bbox 1633 2250 1681 2354; x_wconf 88' lang='lat' dir='ltr'>P.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1103 4640 1753 4744">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1103 4640 1753 4744">
+     <span class='ocr_line' id='line_1_4' title="bbox 1103 4640 1753 4744; baseline -0.006 -27"><span class='ocrx_word' id='word_1_14' title='bbox 1103 4640 1335 4744; x_wconf 83' lang='lat' dir='ltr'><em>Hommage</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 1364 4646 1443 4718; x_wconf 68' lang='grc' dir='ltr'>ενὲε</span> <span class='ocrx_word' id='word_1_16' title='bbox 1473 4650 1753 4741; x_wconf 76' lang='lat' dir='ltr'>respectueux.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 2458 6532">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 2458 6532">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 2458 6532; baseline 0 0"><span class='ocrx_word' id='word_1_17' title='bbox 0 0 2458 6532; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
